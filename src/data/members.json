@@ -3,5 +3,10 @@
         "title": "Locker785",
         "url": "https://locker785.com",
         "feed": "https://locker785.com/feed/feed.xml"
+    },
+    {
+        "title": "Evan's Blorg",
+        "url": "https://evanstoner.com",
+        "feed": "https://evanstoner.com/atom.xml"
     }
 ]
