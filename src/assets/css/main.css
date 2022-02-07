@@ -14,7 +14,7 @@ body {
   margin: 0;
   font-family: arial, sans-serif;
   color: var(--forground);
-  background: url(/assets/images/robotbill-tiny.png) repeat;
+  background: url(/assets/images/robotbill-tile.png) repeat;
   background-color: var(--background);
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .layout {
-  margin-top: 1rem;
+  margin-top: 100px;
   padding: 1rem;
   width: 100%;
   max-width: 80ch;
