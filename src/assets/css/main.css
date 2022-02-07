@@ -34,17 +34,6 @@ body {
   border-style: ridge;
 }
 
-/* header, */
-/* main, */
-/* footer { */
-/*   width: 100%; */
-/*   max-width: 80ch; */
-/* } */
-
-/* main :first-child { */
-/*   margin-top: 1rem; */
-/* } */
-
 table {
   border-collapse: collapse;
 }
