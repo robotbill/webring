@@ -9,4 +9,9 @@
         "url": "https://evanstoner.com",
         "feed": "https://evanstoner.com/atom.xml"
     }
+        {
+        "title": "Benjamin Chait",
+        "url": "https://benjaminchait.net",
+        "feed": "https://benjaminchait.net/feed.xml"
+    }
 ]
